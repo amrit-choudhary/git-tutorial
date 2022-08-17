@@ -3,6 +3,7 @@ using System;
 public class Example {
     public static void Main()
     {
-        Console.Write("Hello ");
+        string s = Console.ReadLine();
+        Console.Write("Hello " + s);
     }
 }
