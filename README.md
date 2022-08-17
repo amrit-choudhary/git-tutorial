@@ -45,3 +45,4 @@ git branch -d <branchname>
 # Stash
 # Pull Request
 # Cherry Pick
+# LFS
