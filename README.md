@@ -20,6 +20,7 @@
 2. Staging
 3. Discard
 4. Reverse commit
+5. Revert branch
 # Push
 # Fetch
 # Pull
@@ -38,8 +39,9 @@ git branch -d <branchname>
 ![image](https://user-images.githubusercontent.com/6888341/185072532-3e9d2dc6-c0f8-42d2-90a5-90a30a0a196e.png)
 
 # Merge
-1. Addition
-2. Merge tool
+1. Simple
+2. Addition
+3. Merge tool
 # Stash
 # Pull Request
 # Cherry Pick
