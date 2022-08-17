@@ -19,4 +19,10 @@ public class Example
         int c = a - b;
         return (float)c;
     }
+
+    public float Mul(int a, int b)
+    {
+        int c = a * b;
+        return (float)c;
+    }
 }
