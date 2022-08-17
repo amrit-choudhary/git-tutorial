@@ -34,8 +34,12 @@ git push -d <remote_name> <branchname>
 git branch -d <branchname>
 ```
 6. Branch strategies: a) Centralized b) Feature branching c) GitFlow d) Forking
+![image](https://user-images.githubusercontent.com/6888341/185072473-519a5a60-2aec-49ff-9088-bdd262fbae10.png)
+![image](https://user-images.githubusercontent.com/6888341/185072532-3e9d2dc6-c0f8-42d2-90a5-90a30a0a196e.png)
+
 # Merge
 1. Addition
 2. Merge tool
 # Stash
 # Pull Request
+# Cherry Pick
