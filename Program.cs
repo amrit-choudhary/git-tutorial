@@ -25,4 +25,10 @@ public class Example
         int c = a * b;
         return (float)c;
     }
+
+    public float Div(int a, int b)
+    {
+        int c = a / b;
+        return (float)c;
+    }
 }
